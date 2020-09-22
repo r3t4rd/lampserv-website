@@ -7,7 +7,7 @@
 3. Run nginx or apache
 
 ## Reffered to:
-[Lampserv](https://vk.com/lampserv.org)
+[Lampserv](https://vk.com/lampserv)
 
 ## Author
 **lampserv-website** © [r3t4rd](https://github.com/r3t4rd), Released under the [MIT](https://github.com/r3t4rd/lampserv-website/blob/master/LICENSE) License.<br>
