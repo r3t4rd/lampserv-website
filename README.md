@@ -8,7 +8,6 @@
 
 ## Reffered to:
 [Lampserv](https://vk.com/lampserv.org)
-[Animelife](http://animelife.org)
 
 ## Author
 **lampserv-website** © [r3t4rd](https://github.com/r3t4rd), Released under the [MIT](https://github.com/r3t4rd/lampserv-website/blob/master/LICENSE) License.<br>
