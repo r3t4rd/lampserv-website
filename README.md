@@ -7,7 +7,7 @@
 3. Run nginx or apache
 
 ## Reffered to:
-[Lampserv](https://lampserv.org)
+[Lampserv](https://vk.com/lampserv.org)
 [Animelife](http://animelife.org)
 
 ## Author
