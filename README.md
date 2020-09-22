@@ -1,3 +1,4 @@
+![hue](https://wooh.pw/a/cjqpre.png)
 # lampserv, lightweight and modern looking website
 
 ## Running
